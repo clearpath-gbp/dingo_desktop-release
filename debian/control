@@ -1,0 +1,12 @@
+Source: ros-melodic-dingo-desktop
+Section: misc
+Priority: optional
+Maintainer: Tony Baltovksi <tbaltovski@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-dingo-desktop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-dingo-msgs, ros-melodic-dingo-viz
+Description: Packages for working with Dingo from a ROS desktop.
