@@ -1,0 +1,16 @@
+ros-melodic-dingo-desktop (0.1.1-1bionic) bionic; urgency=high
+
+
+
+ -- Tony Baltovksi <tbaltovski@clearpathrobotics.com>  Sat, 15 Jan 2022 05:00:00 -0000
+
+ros-melodic-dingo-desktop (0.1.0-1bionic) bionic; urgency=high
+
+  * Consolidated launch files.
+  * Split the single launch file into separate launch files for Dingo-D vs Dingo-O; updated project maintainer to Tony
+  * Added viz and desktop packages
+  * Contributors: Dave Niewinski, Jason Higgins, Tony Baltovski
+
+ -- Tony Baltovksi <tbaltovski@clearpathrobotics.com>  Thu, 13 Aug 2020 04:00:00 -0000
+
+
